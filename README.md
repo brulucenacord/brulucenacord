@@ -1,6 +1,6 @@
 # Bruna Lucena
 
-- ✨ Interesses no ecossistema Open Source, Arquitetura de TI e Liderança.
+✨ Interesses: Tecnologia, Open Source Program Office, Arquitetura de TI e Liderança ✨
 
 <img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
 
@@ -11,7 +11,7 @@
 <br/> :blush: &nbsp; I can help you with exchange ideas about leadership, IT Governance and Architecture (ITIL and TOGAF), Lifelong Learning, Digital Tranformation within big companies and also Women in Tech;
 - 🌱 I’m currently learning about Open Source Program Office, Public Cloud and SW Development;
 
-<br/> 💬  &nbsp; Sobre mim: Amo ser mãe e esposa, amo trabalhar com Tecnologia e fazer gestão de pessoas. Gosto muito de cozinhar, aprender coisas novas e viajar em família.
+- <br/> 💬  &nbsp; Sobre mim: Amo ser mãe e esposa, amo trabalhar com Tecnologia e fazer gestão de pessoas. Gosto muito de cozinhar, aprender coisas novas e viajar em família.
 
-[![Gmail Badge](https://img.shields.io/badge/-bruna.lucena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruna.lucena@gmail.com)](mailto:bruna.lucenao@gmail.com)
+<br/> [![Gmail Badge](https://img.shields.io/badge/-bruna.lucena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruna.lucena@gmail.com)](mailto:bruna.lucenao@gmail.com)
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrunaLucena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-lucena-76812655/)](https://www.linkedin.com/in/bruna-lucena-76812655/) 
