@@ -14,5 +14,6 @@
 - <br/> 💬  &nbsp; Sobre mim: Amo ser mãe e esposa, amo trabalhar com Tecnologia e fazer gestão de pessoas. Gosto muito de cozinhar, aprender coisas novas e viajar em família.
 
 
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrunaLucena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-lucena-76812655/)](https://www.linkedin.com/in/bruna-lucena-76812655/) 
+<br/> :email: &nbsp; Entre em contato comigo:
+[![Linkedin Badge](https://img.shields.io/badge/-BrunaLucena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-lucena-76812655/)](https://www.linkedin.com/in/bruna-lucena-76812655/) 
 <br/> [![Gmail Badge](https://img.shields.io/badge/-bruna.lucena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruna.lucena@gmail.com)](mailto:bruna.lucenao@gmail.com)
