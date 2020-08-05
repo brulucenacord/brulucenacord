@@ -1,7 +1,7 @@
 # Bruna Lucena
 - ✨ Interesses no ecossistema Open Source, Arquitetura de TI e Liderança.
 
-<img width="50px" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
+<img width="50%" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
 
 ## Hi there 👋 [My personal README is being built]
 
