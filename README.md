@@ -1,9 +1,11 @@
-## Bruna Lucena
-<img width="auto" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
+# Bruna Lucena
+- ✨ Interesses no ecossistema Open Source, Arquitetura de TI e Liderança.
+
+<img width="50px" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
 
 ## Hi there 👋 [My personal README is being built]
 
-- ✨ Interesses no ecossistema Open Source, Arquitetura de TI e Liderança.
+
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos Open Source
  <br/> :blush: &nbsp; Posso te ajudar com trocas de ideias sobre Liderança, Governança e Arquitetura de TI (ITIL e TOGAF), Processos de PoC (Proof of Concept) e assuntos diversos sobre Transformação Digital em grandes corporações;
