@@ -7,8 +7,8 @@
 ### Hi there 👋 [My personal README is being built]
 
 - 🔭 I'm currently working on Technical Architecture with a high performance team and specifically leading the Open Source Program Office from Itaú;
-<br/>-:purple_heart: &nbsp; I'm looking for to collaborate with Open Source Projects;
--:blush: &nbsp; I can help you with exchange ideas about leadership, IT Governance and Architecture (ITIL and TOGAF), Lifelong Learning, Digital Tranformation within big companies and also Women in Tech;
+- <br/> :purple_heart: &nbsp; I'm looking for to collaborate with Open Source Projects;
+- <br/> :blush: &nbsp; I can help you with exchange ideas about leadership, IT Governance and Architecture (ITIL and TOGAF), Lifelong Learning, Digital Tranformation within big companies and also Women in Tech;
 - 🌱 I’m currently learning about Open Source Program Office, Public Cloud and SW Development;
 
 - 💬  &nbsp; Sobre mim: Amo ser mãe e esposa, amo trabalhar com Tecnologia e fazer gestão de pessoas. Gosto muito de cozinhar, aprender coisas novas e viajar em família.
