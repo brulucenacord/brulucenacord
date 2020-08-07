@@ -2,14 +2,13 @@
 
 ✨ Interested in Technology, Open Source Program Office, IT Technical Architecture and Leadership ✨
 
-<img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
+<img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">  
 
 #### Hi there 👋
 -<br/>:computer: I'm currently working on Technical Architecture with a high performance team and specifically leading the Open Source Program Office from Itaú;
 -<br/>:purple_heart: I'm looking for to collaborate with Open Source Projects;
 -<br/>:blush: I'd be very happy to help you with exchange experiences on leadership, Governance and IT Architecture (ITIL and TOGAF), Lifelong learning, Digital Transformation in large companies and also Women in Tech;
 -<br/>:rocket: I’m currently learning about Open Source Program Office, Public Cloud and SW Development;
-
 
 #### My personal "About me":
 <br/>:family:I love to being Lana's mother and Marcus's wife;
