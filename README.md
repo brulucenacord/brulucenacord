@@ -1,6 +1,6 @@
 ### Bruna Lucena
 
-✨ Interested in Technology, Open Source Program Office, IT Technical Architecture and Leadership ✨
+✨ Interested in Technology, Open Source Program Office, IT Technical Architecture and Leadership
 
 <img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">  
 
