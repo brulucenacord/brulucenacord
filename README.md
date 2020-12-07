@@ -6,7 +6,7 @@
 
 #### Hi there 👋
 -<br/>:computer: I'm currently working on Technical Architecture with a high performance team and specifically leading the Open Source Program Office from Itaú;
--<br/>:purple_heart: I'm looking for to collaborate with Open Source Projects;
+-<br/>:purple_heart: I'm looking forward to collaborating with Open Source Projects;
 -<br/>:blush: I'd be very happy to help you with exchange experiences on leadership, Governance and IT Architecture (ITIL and TOGAF), Lifelong learning, Digital Transformation in large companies and also Women in Tech;
 -<br/>:rocket: I’m currently learning about Open Source Program Office, Public Cloud and SW Development;
 
