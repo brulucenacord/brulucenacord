@@ -1,6 +1,6 @@
 ### Bruna Lucena
 
-✨ Interested in Technology, Open Source world, DevXperience, IT Architecture and Leadership
+✨ Interested in Technology, Dev Experience and Leadership.
 
 <img width="20%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">  
 
