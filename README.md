@@ -5,10 +5,10 @@
 <img width="20%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">  
 
 #### Hi there 👋
-<br/>-:computer: I'm currently working with Global Banking Account team at Nubank.
-<br/>-:purple_heart: I'm looking to develop myself in technologies to optimize the transfer experience using PIX.
-<br/>-:blush: I'd be very happy to help you with exchanging experiences on leadership, Governance and IT Architecture (ITIL and TOGAF), Lifelong learning, Digital Transformation in large companies and also Women in Tech;
-<br/>-:rocket: I’m currently learning about Open Source Practices, Public Cloud and SW Development;
+<br/>:computer: I'm currently working with Global Banking Account team at Nubank.
+<br/>:purple_heart: I'm looking to develop myself in technologies to optimize the transfer experience using PIX.
+<br/>:blush: I'd be very happy to help you with exchanging experiences on leadership, Governance and IT Architecture (ITIL and TOGAF), Lifelong learning, Digital Transformation in large companies and also Women in Tech;
+<br/>:rocket: I’m currently learning about Open Source Practices, Public Cloud and SW Development;
 
 #### My personal "About me":
 <br/>:family:I love to being Lana e Maitês's mother (and Marcus's wife 💜);
